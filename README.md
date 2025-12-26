@@ -1,4 +1,4 @@
-## практика 7
+## практика 7. Сиденко Григорий ПИ-430Б
 #Создали Docker-файл, заполнили его 
 <img width="1060" height="753" alt="image" src="https://github.com/user-attachments/assets/8c6c7e8b-996e-45b8-b5d9-f51fcae86b27" />  
 #Создали скрипт entrypoint.sh
